@@ -1,12 +1,10 @@
 # <div align="center">👋 I'm Aryan Kushwaha, aka funinkina</div>  
   
 
-### <div align="center">Currently a first year student at JSS Noida, doing B.Tech in Computer Science!</div>  
+### <div align="center">Currently a second-year student at JSS Noida, doing B.Tech in Computer Science!</div>  
   
 
-<div align="center">I'm learning Figma and other front end development tools at the moment. I love learning about linux and amazing open source software. 
-
-I also love making digital art on photoshop, you can check them out on my Instagram.</div>  
+<div align="center">Currently learning machine learning and Linux. Working on DSA and DBMS skills.</div>  
   
 
 <br/>  
