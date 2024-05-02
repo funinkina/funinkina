@@ -1,4 +1,4 @@
-# 👋 I'm Aryan Kushwaha, aka funinkina
+#👋 I'm Aryan Kushwaha, aka funinkina
 I'm a second-year student exploring the world of data science and machine learning. Here, you'll find a collection of my projects, assignments, and experiments through my professional journey.
 
 ## About Me
@@ -8,7 +8,8 @@ I'm a geek with a strong enthusiasm for problem-solving and data-driven insights
 | <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/1200px-Python_logo_01.svg.png?20210503135843' width=80>  | <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tensorflow-svgrepo-com.svg/640px-Tensorflow-svgrepo-com.svg.png' width=80>  | <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png' width=80>  | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png width=80> |
 | ------------ | ------------ | ------------ | ------------ |
 |  <img src=https://styles.redditmedia.com/t5_7tpn6r/styles/communityIcon_vw08a423ptxa1.png width=80>  | <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/640px-C_Logo.png' width=80> | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Linux_mascot_tux.png/640px-Linux_mascot_tux.png width=80>  |<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Java-logo.png/640px-Java-logo.png width=80>|
-|<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png width=80>  |  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/640px-GNOME_Terminal_icon_2019.svg.png width=80>  |  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/640px-OpenCV_Logo_with_text_svg_version.svg.png width=80> | <img src=https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png width=80>  |
+|<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/640px-Go_Logo_Blue.svg.png width=80>  |  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/640px-GNOME_Terminal_icon_2019.svg.png width=80>  |  <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/640px-OpenCV_Logo_with_text_svg_version.svg.png width=80> | <img src=https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png width=80> 
+| <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Mongodb-icon.svg/640px-Mongodb-icon.svg.png width=80> | <img src=http://pngimg.com/uploads/mysql/mysql_PNG22.png width=80> | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Javascript_Logo.png/640px-Javascript_Logo.png width=80> | <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/640px-Figma-logo.svg.png width=80>
 
 ------------
 
@@ -27,12 +28,14 @@ I'm a geek with a strong enthusiasm for problem-solving and data-driven insights
 > Plymouth theme for Manjaro linux using slightly tweaked manjaro logo and a custom spinner.
 
 ## Tools and Applications
-- **Jupyter Notebooks**: Leveraged for interactive data exploration, experimentation, and presentation.
-- **Google Colab:** Utilized for collaborative coding and access to GPU resources.
-- **GitHub**: Version control and project management.
-- **Anaconda**: Python distribution for package management and environment setup.
-- **TensorBoard**: Visualized model graphs, metrics, and training progress.
-- **Tableau**: Created interactive visualizations for data storytelling.
+- ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=plastic): Leveraged for interactive data exploration, experimentation, and presentation.
+- ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=plastic): Utilized for collaborative coding and access to GPU resources.
+- ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic): Version control and project management.
+- ![Anaconda Badge](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff&style=plastic): Python distribution for package management and environment setup.
+- ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=plastic): Design and prototyping projects
+- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=plastic): Database Storage and management
+- ![PowerShell Badge](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff&style=plastic): Windows scripting and commands
+- ![Beautiful Soup](https://img.shields.io/badge/-Beautiful%20Soup-59666C?style=plastic): Web scraping
 
 ## Get in Touch
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](http://www.twitter.com/funinkina "![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)") [ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](http://www.linkedin.com/in/funinkina " ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)") [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:aryankushwaha3101@gmail.com "![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)")
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](http://www.twitter.com/funinkina "![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)") [ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](http://www.linkedin.com/in/funinkina " ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)") [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:aryankushwaha3101@gmail.com "![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)") [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/funinkina)
