@@ -27,12 +27,12 @@ I'm a geek with a strong enthusiasm for problem-solving and data-driven insights
 > Plymouth theme for Manjaro linux using slightly tweaked manjaro logo and a custom spinner.
 
 ## Tools and Applications
-- Jupyter Notebooks: Leveraged for interactive data exploration, experimentation, and presentation.
-- Google Colab: Utilized for collaborative coding and access to GPU resources.
-- GitHub: Version control and project management.
-- Anaconda: Python distribution for package management and environment setup.
-- TensorBoard: Visualized model graphs, metrics, and training progress.
-- Tableau: Created interactive visualizations for data storytelling.
+- **Jupyter Notebooks**: Leveraged for interactive data exploration, experimentation, and presentation.
+- **Google Colab:** Utilized for collaborative coding and access to GPU resources.
+- **GitHub**: Version control and project management.
+- **Anaconda**: Python distribution for package management and environment setup.
+- **TensorBoard**: Visualized model graphs, metrics, and training progress.
+- **Tableau**: Created interactive visualizations for data storytelling.
 
 ## Get in Touch
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](http://www.twitter.com/funinkina "![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)") [ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](http://www.linkedin.com/in/funinkina " ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)") [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:aryankushwaha3101@gmail.com "![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)")
