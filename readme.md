@@ -39,7 +39,8 @@ I'm a geek with a strong enthusiasm for problem-solving and data-driven insights
 - ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=plastic): Photo manipulation and editing
 - ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=plastic): Video editing and color grading
 
-
+## Stats
+![funinkina's Stats](https://github-readme-stats.vercel.app/api?username=funinkina&theme=blueberry&show_icons=true&hide_border=true&count_private=true) ![funinkina's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=funinkina&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
 
 ## Get in Touch
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)](http://www.twitter.com/funinkina "![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=for-the-badge)") [ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](http://www.linkedin.com/in/funinkina " ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)") [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:aryankushwaha3101@gmail.com "![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)") [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge)](https://www.instagram.com/funinkina)
