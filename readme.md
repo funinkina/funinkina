@@ -1,4 +1,4 @@
-#👋 I'm Aryan Kushwaha, aka funinkina
+# 👋 I'm Aryan Kushwaha, aka funinkina
 I'm a second-year student exploring the world of data science and machine learning. Here, you'll find a collection of my projects, assignments, and experiments through my professional journey.
 
 ## About Me
