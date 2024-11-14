@@ -2,7 +2,7 @@
 ## Machine Learning, Data Science, Linux
 A second-year student pursuing a Bachelor's degree in Computer Science and Engineering. Working with Machine Learning, Data Science, and Linux. Welcome to my github, here you will find every project i have ever made.
 
-### [My Resume](https://drive.google.com/file/d/1ynpgc301hM8aEIhykQEgmqHRzS64Bd4I/view?usp=sharing)
+### [My Resume](https://drive.google.com/file/d/1ihZrQcT2tONVpIvPu10jKKj2tmh7F0pw/view?usp=sharing)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=py,opencv,tensorflow,pytorch,sklearn,arch,raspberrypi,arduino,docker,anaconda,go,java,linux,c,cpp,flask,lua,mysql,selenium,fastapi,cmake,bash,mongodb,vim,gcp,git,github,html,css,sass,js,react,sqlite,postman,svg,idea,ps,pr,figma,npm&perline=8)](https://skillicons.dev)
