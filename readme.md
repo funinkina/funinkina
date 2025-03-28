@@ -7,7 +7,6 @@ about me;
 - 3rd year cse undergrad
 - ex-intern at AI based startup
 - daily drives arch linux
-- involved with [gnome](https://www.gnome.org/) contributions
 - works with python, c++
 - good knowledge about linux, cloud, devops
 - writed blogs on linux and programming
