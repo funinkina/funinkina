@@ -7,7 +7,7 @@ about me;
 - 3rd year cse undergrad
 - ex-intern at AI based startup
 - daily drives arch linux
-- works with python, c++
+- works with python, c++, golang
 - good knowledge about linux, cloud, devops
 - i also write blogs on linux and programming
 
