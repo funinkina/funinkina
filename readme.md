@@ -15,4 +15,4 @@ about me;
 [![Gmail - aryankushwaha3101@gmail.com](https://img.shields.io/badge/Gmail-aryankushwaha3101%40gmail.com-4e7493?logo=Gmail)](mailto:aryankushwaha3101@gmail.com) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/funinkina?label=%40funinkina)](https://x.com/funinkina) [![Resume - PDF](https://img.shields.io/badge/Resume-PDF-62934e)](https://drive.google.com/file/d/1ihZrQcT2tONVpIvPu10jKKj2tmh7F0pw/view?usp=sharing)
 
 ## support me
-[![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-white.svg)](https://www.buymeacoffee.com/funinkina)
+[![Buy Me A Coffee Badge](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FD0?logo=buymeacoffee&logoColor=000&style=plastic)](https://www.buymeacoffee.com/funinkina)
