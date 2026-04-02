@@ -1,6 +1,6 @@
 # aryan k (funinkina)
 
-![Views Badge](https://komarev.com/ghpvc/?username=funinkina&label=Profile%20views&color=0e75b6&style=flat) [![blogs - funinkina.is-a.dev](https://img.shields.io/static/v1?label=blogs&message=funinkina.is-a.dev&color=blue)](https://funinkina.is-a.dev) ![GitHub User's stars](https://img.shields.io/github/stars/funinkina)
+![Views Badge](https://komarev.com/ghpvc/?username=funinkina&label=Profile%20views&color=0e75b6&style=flat) [![blogs - funinkina.co.in](https://img.shields.io/static/v1?label=blogs&message=funinkina.co.in&color=blue)](https://funinkina.co.in) ![GitHub User's stars](https://img.shields.io/github/stars/funinkina)
 
 
 ### about me;
