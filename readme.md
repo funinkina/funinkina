@@ -4,7 +4,7 @@
 
 
 ### about me;
-- 3rd year cse undergrad
+- cse undergrad
 - ex-intern at AI based startup
 - daily drives arch linux
 - works with python, c++, golang
