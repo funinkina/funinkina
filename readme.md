@@ -1,7 +1,6 @@
 <div align="center">
 
-# Aryan K.
-#### _funinkina_
+# Aryan K. _(funinkina)_
 
 *Backend engineer. Systems tinkerer. Occasional kernel hacker.*
 
@@ -13,7 +12,7 @@
 
 ---
 
-I build backend systems — mostly voice infrastructure and LLM pipelines lately. I like working close to the metal: the kind of debugging where "why is this 500ms" is a real question and the answer involves a flame graph.
+I build backend systems, mostly voice infrastructure and LLM pipelines lately. I like working close to the metal: the kind of debugging where "why is this 500ms" is a real question and the answer involves a flame graph.
 
 I also contributed a patch to the Linux kernel (ALSA/HDA subsystem), once reverse-engineered a proprietary printer protocol from USB captures for fun, and write about Linux and systems work on my blog (~1,000 monthly readers).
 
@@ -39,12 +38,12 @@ I also contributed a patch to the Linux kernel (ALSA/HDA subsystem), once revers
 
 <br>
 
-## What I'm working on
+## What I'm up to
 
 - **Backend Engineer Intern** at [SuperDash](https://superdash.ai/)  
   *Bengaluru, Karnataka · June 2025 – Present*  
 
-  Owning voice agent infrastructure end-to-end — edge ML models for interruption detection, de-noising, and forced alignment; self-hosted TTS at sub-200ms; WebSocket refactor that cut call latency by 80%. Also designed and shipped an event-driven automation pipeline as a core product feature, from client co-design through production rollout.
+  Owning voice agent infrastructure end-to-end - edge ML models for interruption detection, de-noising, and forced alignment; self-hosted TTS at sub-200ms; WebSocket refactor that cut call latency by 80%. Also designed and shipped an event-driven automation pipeline as a core product feature, from client co-design through production rollout.
 
 <br>
 
