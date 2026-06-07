@@ -10,13 +10,10 @@
 
 </div>
 
----
-
 I build backend systems, mostly voice infrastructure and LLM pipelines lately. I like working close to the metal: the kind of debugging where "why is this 500ms" is a real question and the answer involves a flame graph.
 
 I also contributed a patch to the Linux kernel (ALSA/HDA subsystem), once reverse-engineered a proprietary printer protocol from USB captures for fun, and write about Linux and systems work on my blog (~1,000 monthly readers).
 
-<br>
 
 ## Languages & Tools
 
@@ -36,7 +33,6 @@ I also contributed a patch to the Linux kernel (ALSA/HDA subsystem), once revers
 ![vLLM](https://img.shields.io/badge/vLLM-FF6B35?style=flat&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 
-<br>
 
 ## What I'm up to
 
@@ -45,9 +41,6 @@ I also contributed a patch to the Linux kernel (ALSA/HDA subsystem), once revers
 
   Owning voice agent infrastructure end-to-end - edge ML models for interruption detection, de-noising, and forced alignment; self-hosted TTS at sub-200ms; WebSocket refactor that cut call latency by 80%. Also designed and shipped an event-driven automation pipeline as a core product feature, from client co-design through production rollout.
 
-<br>
-
-<br>
 
 ## GitHub stats
 
@@ -55,10 +48,6 @@ I also contributed a patch to the Linux kernel (ALSA/HDA subsystem), once revers
   <img height="165" src="https://komarev.com/ghpvc/?username=funinkina&label=Profile%20views&color=0e75b6&style=flat" />
   <img height="165" src="https://img.shields.io/github/stars/funinkina" />
 </div>
-
-<br>
-
----
 
 <div align="center">
   <sub>Writing at <a href="https://funinkina.co.in">funinkina.co.in</a> · Open to interesting backend and systems roles</sub>
