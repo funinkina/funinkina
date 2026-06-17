@@ -45,8 +45,9 @@ I also contributed a patch to the Linux kernel (ALSA/HDA subsystem), once revers
 ## GitHub stats
 
 <div align="center">
-  <img height="165" src="https://komarev.com/ghpvc/?username=funinkina&label=Profile%20views&color=0e75b6&style=flat" />
-  <img height="165" src="https://img.shields.io/github/stars/funinkina" />
+  <img height="165" src="https://komarev.com/ghpvc/?username=funinkina&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img height="165" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/funinkina" />
+  <img height="165" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/funinkina" />
 </div>
 
 <div align="center">
