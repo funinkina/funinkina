@@ -33,15 +33,6 @@ I also contributed a patch to the Linux kernel (ALSA/HDA subsystem), once revers
 ![vLLM](https://img.shields.io/badge/vLLM-FF6B35?style=flat&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white)
 
-
-## What I'm up to
-
-- **Backend Engineer Intern** at [SuperDash](https://superdash.ai/)  
-  *Bengaluru, Karnataka · June 2025 – Present*  
-
-  Owning voice agent infrastructure end-to-end - edge ML models for interruption detection, de-noising, and forced alignment; self-hosted TTS at sub-200ms; WebSocket refactor that cut call latency by 80%. Also designed and shipped an event-driven automation pipeline as a core product feature, from client co-design through production rollout.
-
-
 ## GitHub stats
 
 <div align="center">
