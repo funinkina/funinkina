@@ -1,6 +1,6 @@
 # Aryan Kushwaha
 
-Backend and systems engineer at [Libra AI](https://libra.ai) in Bengaluru, building autonomous agent workflows and the backend infrastructure behind them.
+Backend and systems engineer at [Libra AI](https://trylibra.ai) in Bengaluru, building autonomous agent workflows and the backend infrastructure behind them.
 
 Before this I worked on real-time voice infrastructure and edge ML inference. I also have a patch merged into the Linux kernel (ALSA/HDA).
 
@@ -16,4 +16,5 @@ Go, Python, TypeScript, Rust, C/C++ · FastAPI, Node.js, PostgreSQL, Kafka · Do
 
 ## Links
 
-[Website](https://funinkina.co.in) · [LinkedIn](https://linkedin.com/in/funinkina) · [Email](mailto:hello@funinkina.co.in)
+[Website](https://funinkina.com) · [LinkedIn](https://linkedin.com/in/funinkina) · [Email](mailto:hello@funinkina.co.in)
+
