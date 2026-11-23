@@ -16,5 +16,6 @@ Go, Python, TypeScript, Rust, C/C++ · FastAPI, Node.js, PostgreSQL, Kafka · Do
 
 ## Links
 
-[Website](https://funinkina.com) · [LinkedIn](https://linkedin.com/in/funinkina) · [Email](mailto:hello@funinkina.co.in)
+[Website](https://funinkina.com) · [LinkedIn](https://linkedin.com/in/funinkina) · [Email](mailto:hello@funinkina.com)
+
 
